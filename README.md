@@ -1,3 +1,9 @@
+https://arcane-everglades-62593.herokuapp.com/ 
+https://git.heroku.com/arcane-everglades-62593.git
+
+
+
+
 Line Bot 基礎範例程式碼教學 (PHP) - 輕量版 LINEBotTiny.php
 ====================
 
